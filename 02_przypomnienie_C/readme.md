@@ -11,4 +11,4 @@ Sposób wysyłania odpowiedzi
 ---------------------------
 - Pliki źródłowe każdego z zadań powinny się znajdować w osobnym folderze o nazwie "1", "2" itd.
 - Foldery należy spakować do jednego ZIP-a o nazwie "zadania-1-imię-nazwisko-grupa"; w miejsce "imię", "nazwisko" i "grupa" należy wpisać swoje dane.
-- ZIP-a należy wysłać na adres aleksander.lamza[małpa]us.edu.pl
+- ZIP-a należy wysłać na adres alamza@ujk.edu.pl
